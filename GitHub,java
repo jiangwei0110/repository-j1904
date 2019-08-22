@@ -1,5 +1,5 @@
 public class GitHub{
-  public void static gitHub(){
+  public static void main(String[] args)(){
      //....
   }
 }
